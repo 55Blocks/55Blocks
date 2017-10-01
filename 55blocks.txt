@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: 55blocks
+! Title: 55Blocks
 ! Author: Anao
 ! Version: 1.1
 ! Expires: 1 days
