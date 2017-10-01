@@ -1,0 +1,125 @@
+[Adblock Plus 2.0]
+! Title: 55blocks
+! Author: Anao
+! Version: 1.1
+! Expires: 1 days
+! License: "Tudo que esta escrito neste Paste nao passa de ficcao. Somente um idiota levaria qualquer coisa aqui a serio."
+! Homepage: https://55chan.org/mago/res/631.html
+! Support: Avise no fio caso queira adicionar ou remover algum dominio
+!
+! -- Dominios de Paywall ----------------------------------------------------------------------------- !
+! Salsa: http://edgard.org/projects/pfbr/
+! Salsa crua: https://raw.githubusercontent.com/edgard/paywall-filters-br/master/filter.txt
+!
+! folha de s.paulo
+||*.folha.com.br/paywall/*
+||*.folha.uol.com.br/folha/furniture/paywall/*
+||paywall.folha.com.br^
+! clickrbs
+||api.clicrbs.com.br/paywall-api/*
+! zero hora
+||zh.clicrbs.com.br/it/js/paid-content-config.js*
+||www.rbsonline.com.br/cdn/scripts/paywall.min.js*
+! diario catarinense
+||dc.clicrbs.com.br/jornal-2015/jsp/paywall.jspx*
+! diário de santa maria
+||www.rbsonline.com.br/cdn/scripts/SLoader.js*
+! jornal de santa catarina
+||jornaldesantacatarina.clicrbs.com.br/jornal/jsp/paywall*
+! estadão
+||estadao.com.br/paywall/*
+||paywall.estadao.com.br^
+! gazeta do povo
+||gazetadopovo.com.br/assinaturas/public/js/connect_api.js*
+||gazetadopovo.com.br/conta/going/api/paywall/*
+||gazetadopovo.com.br/loader/v1/logan_full_toolbar.js*
+! o globo
+||oglobo.globo.com/_js/payWall*
+||oglobo.globo.com/*controla-acesso*
+||oglobo.globo.com/plataforma/js/*/minificados/paywall*
+||oglobo.globo.com/servicos/inc/payWall.Conteudo.js
+||cdn.tinypass.com/api/tinypass.min.js
+! correio popular
+||correio.rac.com.br/includes/js/novo_cp/fivewall.js*
+! estado do maranhão
+||assets.imirante.com/2.0/oestadoma/js/jquery.login.min.js
+||dashboard.tinypass.com/xbuilder/experience/load*
+! jornal de novo hamburgo
+||www.jornalnh.com.br/includes/js/paywall.js*
+||blockv2.fivewall.com.br/*
+!
+! -- Mineradores de Bitcoin e outras moedinhas virtuais ---------------------------------------------- !
+||coin-hive.com/lib/coinhive.min.js$script
+!
+! -- Spam e Ads -------------------------------------------------------------------------------------- !
+!
+! Primeiramente bloqueios de dominios genericos. Nao se preocupem, quem usa esses dominios nao quer nada serio.
+!
+||*.kz
+||*.bid
+||*.biz
+||*.xyz
+|| *.top
+||*.click
+||*.club
+||*.site
+||*.tk
+!
+! Dominios Especificos
+!
+||meilleuremutuelle.xyz
+||*.globalsources.com
+||*.digitaloceanspaces.com
+||*.adhit.com
+||63.141.254.133
+||dateoftheday.club
+||trackbro.com
+||www.sexlog.com
+||www.bet365.com
+||games-post.com
+||cpm20.com
+||securerr.com
+||loja.atualuploader.com.br
+||nbriskerry.com
+||epom.aarth.com
+||www.mytimesnow.com
+||alxsite.com
+||vemdollar.com
+||bringads.com
+||twitteres.club
+||*.theappjunkies.com
+||www.superaix.com
+||*.thewhizmarketing.com
+||69.30.210.62
+||www.connectparts.com.br
+||smmmafia.com
+||channelchooser.info
+||balancer.me
+||xvidoes.com.br
+||ethylating.com
+||harmotion.me
+||hilltopads.net
+||mediaplayer.movie
+||hardgame2017.com
+||volcanolounge.net
+||randomfaster.club
+||www.dgnvmw.xyz
+||5.135.12.64
+||*.shemirta.info
+||savehubs.com
+||iqoption.com
+||adscpm.net
+||*.newtab-tv.com
+||www.terraclicks.com
+||*.world-hentai.biz
+||*.playmediacenter.com
+||revistaantenados.com
+||bewards.info
+||*.cdn-network92-server3.club
+||www.rk.com
+||www.mclass.com.br
+||pornodelecia.com
+||worldwaronline.com
+||pebadu.com
+||cpm10.com
+||worldwaronline.net.br
