@@ -1,7 +1,7 @@
-## 55Blocks
+# 55Blocks
 Lista de bloqueio de ads, paywalls e mineradores de moedas virtuais
 
-# Changelog
+## Changelog
 
 1.1 *Adição de buradores de Paywall*
 
