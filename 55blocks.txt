@@ -66,12 +66,36 @@
 ||*.tk^
 ||*.cf^
 ||*.gq^
-||*.ga^
 ||*.ml^
 ||*.online^
 !
 ! Dominios Especificos
 !
+no-popups: zxtrace.com true
+no-popups: suddership.com true
+no-popups: xxlargepop.com true
+!
+||zxtrace.com^
+||*.cdnresource.com^
+||openadserving.com^
+||clknsee.com^
+||clkntrk.com^
+||mellowads.com^
+||promowild.com^
+||redirect2719.ws^
+||thewhizmarketing.com^
+||videodownloadconverter.com^
+||newtab-mediasearch.com^
+||digginst.com^
+||suddership.com^
+||translationbuddy.com^
+||*.inclk.com^
+||*.playmediacenter.com^
+||deloton.com^
+||me5apps.com^
+||*.data1rtb.com^
+||q1-tdsge.com^
+||clksite.com^
 ||onclkds.com^
 ||meilleuremutuelle.xyz^
 ||*.globalsources.com^
