@@ -77,9 +77,20 @@
 127.0.0.1 mywallpaper.co
 127.0.0.1 everydaylookup.com
 127.0.0.1 srcsmrtgs.com
+127.0.0.1 gerentehairlossblocker.com
+127.0.0.1 scbl54virared.com
+127.0.0.1 sftwrads.com
 
+
+! -------- filtros personalizados para mallandrinhas.net -------- !
+!
+mallandrinhas.net###im_container
+www.mallandrinhas.net###ads-foda-fx
+://moradu.$popup
+://sommons.co$popup
+!
+! -------- desativados por enquanto -------- !
 ! ||testetesteteste44441111.com^$third-party,popup
-
 ! no-popups: zxtrace.com true
 ! no-popups: suddership.com true
 ! no-popups: xxlargepop.com true
