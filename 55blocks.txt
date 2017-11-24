@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: 55Blocks
 ! Author: Anao
-! Version: 1.2
+! Version: 1.4
 ! Expires: 1 days
 ! License: "Tudo que esta escrito neste Paste nao passa de ficcao. Somente um idiota levaria qualquer coisa aqui a serio."
-! Homepage: https://55chan.org/mago/res/631.html
+! Homepage: https://55blocks.github.io/
+! Homepage_Support: https://55chan.org/mago/res/631.html
 ! Support: Avise no fio caso queira adicionar ou remover algum dominio
 !
 ! -- Dominios de Paywall ----------------------------------------------------------------------------- !
@@ -48,10 +49,11 @@
 ||www.jornalnh.com.br/includes/js/paywall.js*
 ||blockv2.fivewall.com.br/*
 !
-! -- Mineradores de Bitcoin e outras moedinhas virtuais ---------------------------------------------- !
+! -------- Mineradores de Bitcoin e outras moedinhas virtuais -------- !
+!
 ||coin-hive.com/lib/coinhive.min.js$script
 !
-! -- Spam e Ads -------------------------------------------------------------------------------------- !
+! -------- Spam e Ads -------- !
 !
 ! Primeiramente bloqueios de dominios genericos. Nao se preocupem, quem usa esses dominios nao quer nada serio.
 !
@@ -69,11 +71,20 @@
 ||*.ml^
 ||*.online^
 !
-! Dominios Especificos
+! -------- Filtros experimentais -------- !
 !
-no-popups: zxtrace.com true
-no-popups: suddership.com true
-no-popups: xxlargepop.com true
+127.0.0.1 credishe.com
+127.0.0.1 mywallpaper.co
+127.0.0.1 everydaylookup.com
+127.0.0.1 srcsmrtgs.com
+
+! ||testetesteteste44441111.com^$third-party,popup
+
+! no-popups: zxtrace.com true
+! no-popups: suddership.com true
+! no-popups: xxlargepop.com true
+!
+! -------- Filtros especificos -------- !
 !
 ||zxtrace.com^
 ||*.cdnresource.com^
@@ -180,3 +191,4 @@ no-popups: xxlargepop.com true
 ||*.zedo.com^
 ||businesslnk.com^
 ||promoblackparty.com^
+
