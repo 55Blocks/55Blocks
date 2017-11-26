@@ -73,6 +73,15 @@
 !
 ! -------- Filtros experimentais -------- !
 !
+||anlclqrvbsk.co$script
+://moradu.$popup
+://sommons.co$popup
+://pttsite.$popup
+://0e6fc55ed3d4c2c2ba0.$popup
+://creamvids.info$popup
+://htmonster.com$popup
+://anlclqrvbsk.$popup
+://35.188.59.75$popup
 127.0.0.1 credishe.com
 127.0.0.1 mywallpaper.co
 127.0.0.1 everydaylookup.com
@@ -80,14 +89,19 @@
 127.0.0.1 gerentehairlossblocker.com
 127.0.0.1 scbl54virared.com
 127.0.0.1 sftwrads.com
-
-
-! -------- filtros personalizados para mallandrinhas.net -------- !
+127.0.0.1 gerentehairlossblocker.com
+127.0.0.1 scbl54virared.com
+127.0.0.1 sftwrads.com
+127.0.0.1 www.conexaoartesvisuais2010.com.br
+127.0.0.1 www.logicosbrasil.com.br
+127.0.0.1 www.coitadinhabemfeito.com.br
+!
+! -------- filtros personalizados para alguns sites pr0n-------- !
 !
 mallandrinhas.net###im_container
 www.mallandrinhas.net###ads-foda-fx
-://moradu.$popup
-://sommons.co$popup
+flagrasamadores.net###campanha
+www.safadasamadoras.com##.mn-inside
 !
 ! -------- desativados por enquanto -------- !
 ! ||testetesteteste44441111.com^$third-party,popup
@@ -202,4 +216,3 @@ www.mallandrinhas.net###ads-foda-fx
 ||*.zedo.com^
 ||businesslnk.com^
 ||promoblackparty.com^
-
